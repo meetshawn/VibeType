@@ -29,8 +29,8 @@ CONFIG_PATH = Path(__file__).resolve().parent / "config.json"
 
 I18N = {
     "zh": {
-        "title": "SenseVoice 桌面版",
-        "header_title": "SenseVoice 桌面语音转文字",
+        "title": "VibeType 桌面版",
+        "header_title": "VibeType 桌面语音转文字",
         "header_hotkey": "全局快捷键：{hotkey}",
         "header_desc": "在任意应用输入框聚焦后，按一次快捷键开始录音，再按一次停止并自动输入。",
         "settings": "设置",
@@ -81,8 +81,8 @@ I18N = {
         "err_detail": "请检查麦克风和模型环境。",
     },
     "en": {
-        "title": "SenseVoice Desktop",
-        "header_title": "SenseVoice Desktop Voice To Text",
+        "title": "VibeType Desktop",
+        "header_title": "VibeType Desktop Voice To Text",
         "header_hotkey": "Global hotkey: {hotkey}",
         "header_desc": "Focus any input box, press once to record, press again to stop and type automatically.",
         "settings": "Settings",
