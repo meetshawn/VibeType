@@ -1,4 +1,4 @@
-# vibeVoice
+# VibeType
 
 Desktop-only voice-to-text tool based on `iic/SenseVoiceSmall`.
 
